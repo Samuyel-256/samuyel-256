@@ -1,257 +1,86 @@
-<!-- ======================= HEADER ======================= -->
-
-<div align="center">
-
-# 👋 Hey, I'm Samuyel Dammu
-
-### 🤖 AI/ML Enthusiast • 👁️ Computer Vision • 🐍 Python • 🚀 Builder
-
-<p>
-  <i>Turning ideas into intelligent and creative applications.</i>
+<p align="center">
+  <a href="https://github.com/Samuyel-256">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Samuyel" alt="Hello! I'm Samuyel" />
+  </a>
 </p>
 
-<br>
-
-<a href="https://github.com/Samuyel-256">
-  <img src="https://komarev.com/ghpvc/?username=Samuyel-256&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</a>
-
-</div>
-
----
-
-<!-- ======================= ABOUT ======================= -->
-
-## 🧑‍💻 About Me
-
-I'm a **B.Tech CSE (AI/ML) graduate** passionate about Artificial Intelligence,
-Machine Learning, Computer Vision and creative technology.
-
-I enjoy experimenting with AI tools, building practical projects and turning
-interesting ideas into working applications.
-
-### 🚀 Currently Exploring
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 👁️ Computer Vision
-- 🧠 Deep Learning
-- ✋ Hand Gesture Recognition
-- 🎨 AI-powered Creative Tools
-- 🌐 AI Web Applications
-- 🔬 Generative AI & Prompt Engineering
-
----
-
-<!-- ======================= SKILLS ======================= -->
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=595&height=44&lines=AI%2FML%20Enthusiast;Computer%20Vision%20Explorer;Prompt%20Engineering%20Enthusiast;Building%20AI%20Projects" alt="Typing headlines" />
 </p>
 
-### 🤖 AI / ML
+## About Me
+
+I am a B.Tech Computer Science graduate specializing in Artificial Intelligence and Machine Learning, with a strong interest in practical AI applications and creative technology.
+
+I enjoy building AI and computer vision projects using Python, TensorFlow, OpenCV, and MediaPipe, while exploring new AI tools and prompt engineering techniques.
+
+My projects include:
+
+- Real-time hand gesture recognition systems
+- AI-powered air drawing and shape detection
+- Machine learning based crop prediction
+- AI and computer vision applications
+- AI-powered web applications
+
+I am also interested in exploring new AI technologies and building practical solutions that combine creativity and technology.
+
+## Core Competencies
+
+- Machine learning and deep learning
+- Computer vision and real-time image processing
+- AI application development
+- Data preprocessing and model training
+- Prompt engineering
+- AI-powered web applications
+- Model integration and deployment
+
+## Technical Stack
+
+- Languages: Python, HTML, CSS, JavaScript
+- AI/ML: Artificial Intelligence, Machine Learning, Deep Learning
+- Computer Vision: OpenCV, MediaPipe
+- Frameworks: TensorFlow, Keras, Flask
+- AI: Prompt Engineering
+- Deployment: Vercel, Netlify
+- Tools & Platforms: Git, GitHub, VS Code
+
+## Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-121011.svg?logo=github&logoColor=white)](https://github.com/Samuyel-256)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://samuyel.vercel.app/)
+
+## Tech Stack Badges
+
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7.svg?style=for-the-badge&logo=google&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## GitHub Stats
 
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img height="200" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Samuyel-256&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
+
+  <img height="200" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Samuyel-256&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
 </p>
 
-### 🌐 Development & Tools
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Samuyel-256&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000)
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+### Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Samuyel-256&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
----
+## Random Dev Quote
 
-<!-- ======================= PROJECTS ======================= -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### ✋ AI Air Canvas
-
-An AI-powered computer vision project that detects
-hand gestures and allows users to interact with
-a virtual canvas using their hands.
-
-**Tech:** Python • OpenCV • MediaPipe • AI
-
-</td>
-
-<td width="50%">
-
-### 🖐️ Sign Speak
-
-Real-time hand gesture recognition system that
-detects signs and converts them into useful
-output.
-
-**Tech:** Python • TensorFlow • OpenCV • MediaPipe
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🌾 Crop Prediction
-
-Machine learning application that predicts
-suitable crops based on agricultural parameters.
-
-**Tech:** Python • Scikit-learn • Flask
-
-</td>
-
-<td width="50%">
-
-### 🎮 Game Recommendation
-
-Machine learning based recommendation system
-for suggesting games based on available data.
-
-**Tech:** Python • Machine Learning
-
-</td>
-
-</tr>
-</table>
-
----
-
-<!-- ======================= GITHUB STATS ======================= -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=Samuyel-256&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuyel-256&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=Samuyel-256&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Samuyel-256&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"
-/>
-
-</div>
-
----
-
-<!-- ======================= ACTIVITY ======================= -->
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Samuyel-256&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-width="100%"
-alt="GitHub Activity Graph"
-/>
-
-</div>
-
----
-
-<!-- ======================= CONTRIBUTIONS ======================= -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Samuyel-256/Samuyel-256/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<!-- ======================= SOCIAL ======================= -->
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Samuyel-256">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://samuyel.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<!-- ======================= QUOTE ======================= -->
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Build. Learn. Experiment. Repeat."
-
-⭐ If you find my projects interesting, feel free to explore my repositories!
-
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
